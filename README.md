@@ -84,7 +84,21 @@ cohesion and encapsulation,
 - Jest (JavaScript)
 - Enzyme (React)
 
-##### Testing Suites
+##### Git Workflow
+- Using branches to work collaboratively in teams
+- Writing descriptive & succinct commit messages
+- Enforcing good commit discipline to minimise code conflicts
+- Dealing with code conflicts
+
+##### Databases 
+- PostgreSQL 
+- SQLite 
+
+##### Deployment
+Continues deployment of the master and development branches using Heroku. 
+
+##### Working Methodology 
+
 - Technologies learnt; 
     -Ruby 
     -Rails 
