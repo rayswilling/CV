@@ -77,7 +77,14 @@ cohesion and encapsulation,
 - Ruby on Rails 
 - Sinatra
 
-##### Testing Suites 
+##### Testing Suites
+-  RSpec (Ruby)
+- Capybara (Ruby / JavaScript)
+- Jasmine (JavaScript)
+- Jest (JavaScript)
+- Enzyme (React)
+
+##### Testing Suites
 - Technologies learnt; 
     -Ruby 
     -Rails 
