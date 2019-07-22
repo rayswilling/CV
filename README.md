@@ -99,13 +99,13 @@ Continues deployment of the master and development branches using Heroku.
 
 ##### Working Methodology 
 - Agile software development including:
-- XP values
-- Sprint planning
-- Pair programming
-- Breaking down the program into user stories
-- Breaking down the user stories further into tickets
-- Daily stand-ups and retrospectives to iteratively improve processes and code
-- Technologies learnt; 
+    - XP values
+    - Sprint planning
+    - Pair programming
+    - Breaking down the program into user stories
+    - Breaking down the user stories further into tickets
+    - Daily stand-ups and retrospectives to iteratively improve processes and code
+    - Technologies learnt; 
 
 ### edX - Online University level courses (2017 - 2018)
 
