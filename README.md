@@ -98,19 +98,14 @@ cohesion and encapsulation,
 Continues deployment of the master and development branches using Heroku. 
 
 ##### Working Methodology 
-
-- Technologies learnt; 
-    -Ruby 
-    -Rails 
-    -RSpec 
-    -Sinatra 
-    -Capybara 
-    -Selenium 
-    -JavaScript 
-    -Jasmine 
-    -Cypress 
-    -PostgreSQL
-
+- Agile software development including:
+    - XP values
+    - Sprint planning
+    - Pair programming
+    - Breaking down the program into user stories
+    - Breaking down the user stories further into tickets
+    - Daily stand-ups and retrospectives to iteratively improve processes and code
+    - Technologies learnt; 
 
 ### edX - Online University level courses (2017 - 2018)
 
