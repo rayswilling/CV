@@ -56,7 +56,7 @@ I recently completed a Masters at Stellenbosch University. The day after I compl
 
 Fully immersive 16 week programming course at Europe’s #1 Developer Bootcamp focused on core coding techniques & principles such as agile methodologies, Test Driven Development (TDD), Object Oriented Design, pair programming and more.
 
-##### Core course topics:
+#### Core course topics:
 Object Oriented Design (OOP) best practices, 
 Test Driven Development (TDD), 
 writing clean code, 
@@ -64,19 +64,20 @@ Pair Programming ,
 Agile development as well as core principles such as dependency injection, single responsibility, 
 cohesion and encapsulation, 
 
-##### Languages and Frameworks:
+#### Languages and Frameworks:
 
-###### Languages 
+##### Languages 
 - Ruby 
 - JavaScript 
 - HTML / CSS (Including CSS FlexBox & CSS Grid)
 
-###### Frameworks  
+##### Frameworks  
 - React Native 
 - Node.JS 
 - Ruby on Rails 
 - Sinatra
 
+##### Testing Suites 
 - Technologies learnt; 
     -Ruby 
     -Rails 
