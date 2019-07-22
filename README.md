@@ -195,7 +195,7 @@ I frequently attend lectures and conferences to keep up to date with the fast pa
 I also have a fascination with all things fermentation. A plethora of bubbling jars
 in my kitchen eventually turn into breads, pickles or wines. When I’m not
 playing food scientist or in front of the computer, I’m out running,
-skateboarding, climbing or taking something apart to see how its works.
+skateboarding, climbing or taking something apart to see how it works.
 
 </p>
 </details>
