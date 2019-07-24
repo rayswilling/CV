@@ -40,10 +40,9 @@ I recently completed a Masters at Stellenbosch University. The day after I compl
 
 | Link | Summary | Technologies used | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :---: | :---: | :---: | :---: |
-| [10monkeys](https://github.com/fo0s/10monkeys) | My interpretation of the [Infinite monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem). A user loads in a set of words (poem, book, novel, series of books). On completion, the application then starts its cycle by randomly generating a string of letters for possible websites. If a hit is found, all the words are scraped off the site and compared to the inputted list. The cycle continues until every word has been fulfilled. | **Hardware:** [Raspberry pi](https://www.raspberrypi.org/) <br><br> **Software:** Ruby, Google API (database), Sinatra | [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)<br> [![Coverage Status](https://coveralls.io/repos/github/fo0s/10monkeys/badge.svg?branch=master)](https://coveralls.io/github/fo0s/10monkeys?branch=master)<br>[![Build Status](https://travis-ci.org/fo0s/10monkeys.svg?branch=master)](https://travis-ci.org/fo0s/10monkeys) <br>![Progress](http://progressed.io/bar/85?title=done)|
-| [Acebook :: Roku](https://github.com/fo0s/acebook-roku) | A team project aimed to make a Facebook clone. We wanted to give it a MySpace feel with Facebook's functionality. | Ruby, Rails, CSS, AWS Elastic Beanstalk | [![Build Status](https://travis-ci.org/samanthaixer/acebook-roku.svg?branch=master)](https://travis-ci.org/samanthaixer/acebook-roku)<br>[![Coverage Status](https://coveralls.io/repos/github/samanthaixer/acebook-roku/badge.svg?branch=master&kill_cache=1)](https://coveralls.io/github/samanthaixer/acebook-roku?branch=master&kill_cache=1)<br>![Progress](http://progressed.io/bar/60?title=done) |
-| [ReciPeeps](https://github.com/fo0s/ReciPeeps) |  Makers final project. As a team, we were tasked with making a personal development application. We came up with Recipeeps, a social place where people can post recipes, have them voted up by popularity and eventually build up their own personal cookbook that can be printed and sent as a physical object. | Ruby, Rails, CSS, Heroku, Javascript, Travis | [![Build Status](https://travis-ci.org/harrygalliano/ReciPeeps.svg?branch=master)](https://travis-ci.org/harrygalliano/ReciPeeps)<br>[![Coverage Status](https://coveralls.io/repos/github/harrygalliano/ReciPeeps/badge.svg?branch=master&kill_cache=1)](https://coveralls.io/repos/github/harrygalliano/ReciPeeps?branch=master&kill_cache=1)<br>![Progress](http://progressed.io/bar/95?title=done) |
-| [Algorithm Complexity](https://github.com/fo0s/AlgorithmComplexity ) | My personal playground to replicate and understand how methods are build and tweaked to get the best possible result. | Ruby, [Time complexity theories](https://en.wikipedia.org/wiki/Time_complexity) | [![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)](https://forthebadge.com)<br>![Ongoing](https://img.shields.io/badge/Status-Ongoing-orange.svg) |
+| [PowerOfTruth](https://github.com/rayswilling/PowerOfTruth) | Makers final project. As a tem, we were tasked with making a social good application. We came up with ThePowerOfTruth, a news app where people can read news from a myriad of sources, and have the political bias of each news source displayed next to each news article from that respective source. |  <br><br> **Software:** React Native, Google API (Google News), Jest, Expo | [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)<br> [![Coverage Status](https://coveralls.io/repos/github/fo0s/10monkeys/badge.svg?branch=master)](https://coveralls.io/github/fo0s/10monkeys?branch=master)<br>[![Build Status](https://travis-ci.org/fo0s/10monkeys.svg?branch=master)](https://travis-ci.org/fo0s/10monkeys) <br>![Progress](http://progressed.io/bar/85?title=done)|
+| [Acebook-Amoeba Boys](https://github.com/samkitchen94/acebook-rails-amoeba-boyz) | A team project aimed to make a Facebook clone. We wanted to give it a cartoon like feel with Facebook functionality. | Ruby, Rails, CSS, Devise | [![Build Status](https://travis-ci.org/samanthaixer/acebook-roku.svg?branch=master)](https://travis-ci.org/samanthaixer/acebook-roku)<br>[![Coverage Status](https://coveralls.io/repos/github/samanthaixer/acebook-roku/badge.svg?branch=master&kill_cache=1)](https://coveralls.io/github/samanthaixer/acebook-roku?branch=master&kill_cache=1)<br>![Progress](http://progressed.io/bar/60?title=done) |
+| [PowerOfTruthServer](https://github.com/rayswilling/PowerOfTruthServer ) | THe backend for the Power of Truth application. It's an API in in itself that draws in information from Google API and dispenses it to the front end Power of Truth App| Node.js [Time complexity theories](https://en.wikipedia.org/wiki/Time_complexity) | [![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)](https://forthebadge.com)<br>![Ongoing](https://img.shields.io/badge/Status-Ongoing-orange.svg) |
 
 </p>
 </details>
@@ -107,49 +106,14 @@ Continues deployment of the master and development branches using Heroku.
     - Daily stand-ups and retrospectives to iteratively improve processes and code
     - Technologies learnt; 
 
-### edX - Online University level courses (2017 - 2018)
+### Stellenbosch University (18 January 2016 - 7 December 2018)
+- Post Graduate Diploma in Sustainable Development (cum laude)
+- Masters of Philosophy in Sustainable Development (B)
 
-> The Massachusetts Institute of Technology and Harvard University created edX
-> in May 2012. edX is a massive open online course (MOOC) provider. It hosts
-> online university-level courses in a wide range of disciplines to a
-> worldwide student body.
-
-##### MIT - Introduction to Computer Science and Programming using Python
-- Simple `algorithms`, `testing` and `debugging`
-- Introduction to algorithmic complexity
-- `Data structures`
-
-##### RIT - Cyber Security Risk Management
-- Information security risk management framework and methodologies
-- Identifying and modeling information `security` risks
-- Qualitative and quantitative risk assessment methods
-- Articulating information security risks as business consequences
-
-##### RIT - Cyber Security Fundamentals
-- `Network` and system administration fundamentals
-- Information assurance fundamentals such as confidentiality,
-  integrity and availability, etc.
-- Basic `cryptography` concepts
-
-##### RIT - Network Security
-- Examined the various areas of `network security` including
-  intrusion detection, evidence collection and defence against
-  cyber attacks
-- Examined the resources available to both intruders and data
-  network administrators to see their effects.
-
-##### RIT - Cyber Security Capstone
-- A platform designed to practice and implement lessons learnt
-  in the previous Cyber Security courses.
-
-### Udemy - Online courses (2017 - 2018)
+### Udemy - Online courses (2018 - 2019)
 > Udemy.com is an online learning platform. It is aimed at professional adults.
 > No Udemy courses are currently credentialed for college credit;
 > students take courses largely as a means of improving job-related skills.
-
-##### Blockchain Essentials
-- Bitcoin concept, Blockchain concept, Mining, Keys,
-  Transactions, Cryptography, Digital Signature, Hashing and Encoding
 
 ##### The complete ruby on rails developer course
 - A full introduction to `Ruby` followed by `Ruby on Rails`
@@ -162,7 +126,6 @@ Continues deployment of the master and development branches using Heroku.
 
 <details><summary>Experience</summary>
 <p>
-
 
 #### Cryptocurrency trader
 
