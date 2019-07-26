@@ -146,7 +146,6 @@ My work included:
 Junior associate for the Sustainability Institute.
 
 My work included: 
-
 - Working in small teams doing research. 
 - I was tasked with managing the associates, arranging standups every morning and building a team ethos around sustainability. 
 - It was my responsibility to manage the associates learning processes over the 6 month period. 
@@ -154,31 +153,35 @@ My work included:
 >Jan 2014 - May 2015 
 
 Sales and Service Agent for the iShack Project:
-
 I worked in a small startup that delivered solar powered lighting, TV's and cell phone charges to slums in South Africa. I worked out in the field installing, maintaining and marketing our products to the clients, as well as working on the backend of the companies website, social media strategies and supply chain works.
 
 #### Sustainable Brothers 
 > Apr, 2014 — Oct, 2016
+
 Co-founder and project manager of a student based movement providing platforms for eventually 5000+ followers to connect with sustainability projects and campaigns, resulting in 6 fundraising events, 14 community food gardens, 20 festival and awareness events and 4 youth commitee meetings. 
 
 </p>
 </details>
 
-<details><summary>When I'm not programming</summary>
+<details><summary>Hobbies & Interests</summary>
+<p>
+- Reading: I love reading science fiction, tech, biographies and self-improvement books. 
+- Climbing: Bouldering and traditional climbing 
+- Trekking: I enjoy venturing into remote areas of the world to trek and explore, especially in high altitutde alpine regions. 
+- Cycling
+- Football: I played semi-professionally from greenpoint FC in South Africa. 
+- Scuba Diving
+- Learning: I frequently attend lectures, conferences and meet ups to stay informed with the latest industry trend
+</p>
+
+
+<details><summary>Work Eligibility</summary>
 <p>
 
-I frequently attend lectures and conferences to keep up to date with the fast paced changes in technology.
-
-I also have a fascination with all things fermentation. A plethora of bubbling jars
-in my kitchen eventually turn into breads, pickles or wines. When I’m not
-playing food scientist or in front of the computer, I’m out running,
-skateboarding, climbing or taking something apart to see how it works.
+I am in England on an Ancestral Visa, which after 5 years will permit me to apply for indefinite leave to remain (ILR). I have the eligibility to work in the UK without any restrictions. 
 
 </p>
 </details>
 
 <!-- **A web version of this CV can be found** [HERE](https://fo0s.github.io/)
 https://en.wikipedia.org/wiki/Time_complexity -->
-
-git add .
-git commit -m "Commit"
