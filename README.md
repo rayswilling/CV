@@ -132,6 +132,7 @@ Continues deployment of the master and development branches using Heroku.
 #### Flor de Amor 
 
 > September, 2018 — March 2019
+
 Worked as a digital marketing assistance and front-end developer.
 My work included: 
 - Maintaning and upgrading websites based off WordPress.org
@@ -141,21 +142,24 @@ My work included:
 #### The Sustainability Institute
 
 >Jan 2014 - Aug 2015
+
 Junior associate for the Sustainability Institute.
+
 My work included: 
+
 - Working in small teams doing research. 
 - I was tasked with managing the associates, arranging standups every morning and building a team ethos around sustainability. 
 - It was my responsibility to manage the associates learning processes over the 6 month period. 
 
 >Jan 2014 - May 2015 
-Sales and Service Agent for the iShack Project
+
+Sales and Service Agent for the iShack Project:
+
 I worked in a small startup that delivered solar powered lighting, TV's and cell phone charges to slums in South Africa. I worked out in the field installing, maintaining and marketing our products to the clients, as well as working on the backend of the companies website, social media strategies and supply chain works.
 
 #### Sustainable Brothers 
 > Apr, 2014 — Oct, 2016
 Co-founder and project manager of a student based movement providing platforms for eventually 5000+ followers to connect with sustainability projects and campaigns, resulting in 6 fundraising events, 14 community food gardens, 20 festival and awareness events and 4 youth commitee meetings. 
-
-Specialized in catering for ViP private events and for premium fashion clients.
 
 </p>
 </details>
