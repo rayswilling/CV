@@ -50,7 +50,6 @@ I recently completed a Masters at Stellenbosch University. The day after I compl
 <details><summary>Education</summary>
 <p>
 
-
 ### Makers Academy (29 April - Present)
 
 Fully immersive 16 week programming course at Europe’s #1 Developer Bootcamp focused on core coding techniques & principles such as agile methodologies, Test Driven Development (TDD), Object Oriented Design, pair programming and more.
@@ -115,11 +114,14 @@ Continues deployment of the master and development branches using Heroku.
 > No Udemy courses are currently credentialed for college credit;
 > students take courses largely as a means of improving job-related skills.
 
-##### The complete ruby on rails developer course
-- A full introduction to `Ruby` followed by `Ruby on Rails`
+##### The Full Stack Web Development
+- Learn Full Stack Web Development that helped me build 10 different projects. 
 
-##### The complete javascript course
-- `Javascript` fundamentals from `ES5` to `ES7`. Touching on `CSS` and `HTML`
+##### The Web Developer Bootcamp
+- `Javascript` fundamentals from `ES5` to `ES7`. Touching on `CSS`, `HTML`, `Node` and `React`. 
+
+##### TylerMcGinnis.com 
+- `React` bootcamp   
 
 </p>
 </details>
@@ -127,7 +129,7 @@ Continues deployment of the master and development branches using Heroku.
 <details><summary>Experience</summary>
 <p>
 
-#### Cryptocurrency trader
+#### Virtual Front-End Assistant 
 
 > May, 2017 — Present
 
