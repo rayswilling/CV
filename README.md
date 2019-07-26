@@ -1,4 +1,4 @@
-<h1><a name="cv"><img align="left" src="./Images/cv.png" height="45"></a><a href="https://makers.tech/"><img align="right" src="./Images/makers.png" width="80"/></a></h1>
+<h1><a name="cv"><img align="left" src="./images/cv.png" height="45"></a><a href="https://makers.tech/"><img align="right" src="./images/makers.png" width="80"/></a></h1>
     
 <h4 align="right">email&nbsp;:&nbsp;<a href="mailto:swillingray@gmail.com">Ranen Swilling</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
 <br><br>
@@ -18,16 +18,9 @@ I recently completed a Masters at Stellenbosch University. The day after I compl
 <p>
 
 
-| ![Github](Images/github1.png)<br>GitHub | ![Ruby](Images/ruby.png)<br>Ruby | ![Javascript](Images/js.png)<br>JavaScript |
+| ![Github](images/github1.png)<br>GitHub | ![Ruby](images/ruby.png)<br>Ruby | ![Javascript](images/js.png)<br>JavaScript |
 | :---: | :---: | :---: |
 | Git command line, Markdown, Repo collaboration, Merge conflicts, Work flows (branching) | Gems, Rails, Sinatra, Rspec, Capybara | Vanilla, React.js, jquery, Node.js |
-
-<br>
-
-<!-- | ![Blockchain](Images/bitcoin.png)<br>Blockchain technology | ![sheild](Images/shield.png)<br>Cyber security | ![Leadership](Images/lead.png)<br>Leadership |
-| :---: | :---: | :---: |
-| A blockchain is a growing list of records, called blocks, which are linked using cryptography. It is considered by many as the future of currency | The protection of computer systems from theft or damage to their hardware, software or electronic data, as well as from disruption or misdirection of the services they provide. | Leadership is both a research area and a practical skill encompassing the ability of an individual or organisation to "lead" or guide other individuals, teams, or entire organisations. |
-| Built and utilized multiple <br>mining rigs from scratch,<br> Traded in crypto currency<br>([Cryptopia](https://www.cryptopia.co.nz/), [Binance](https://www.binance.com/en), [Coinbase](https://www.coinbase.com/)),<br> Blockchain Architecture,<br> Data Structures,<br>Cryptography | Pen testing;<br>Metsploit, Nmap, Wireshark, Burpsuite, <br>Privacy;<br>Tor, VPNs, Breach Alarm<br>Operating systems;<br>Backtrack, ParrotOS | I successfully helped in the opening<br> of 3 restaurants. Selecting, training<br> and leading the team was integral to the<br> running of the business.  -->
 
 <br>
 
