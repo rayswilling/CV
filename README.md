@@ -129,42 +129,33 @@ Continues deployment of the master and development branches using Heroku.
 <details><summary>Experience</summary>
 <p>
 
-#### Virtual Front-End Assistant 
+#### Flor de Amor 
 
-> May, 2017 — Present
+> September, 2018 — March 2019
+Worked as a digital marketing assistance and front-end developer.
+My work included: 
+- Maintaning and upgrading websites based off WordPress.org
+- Responsible for building digital marketing strategies
+- Managed digital marketing accounts 
 
-Trading between Bitcoin and alternative currencies.
+#### The Sustainability Institute
 
-- Built and managed multiple mining rigs.  
-- Exploring the potential of Blockchain technology.
+>Jan 2014 - Aug 2015
+Junior associate for the Sustainability Institute.
+My work included: 
+- Working in small teams doing research. 
+- I was tasked with managing the associates, arranging standups every morning and building a team ethos around sustainability. 
+- It was my responsibility to manage the associates learning processes over the 6 month period. 
 
-#### La Bonne Bouffe
+>Jan 2014 - May 2015 
+Sales and Service Agent for the iShack Project
+I worked in a small startup that delivered solar powered lighting, TV's and cell phone charges to slums in South Africa. I worked out in the field installing, maintaining and marketing our products to the clients, as well as working on the backend of the companies website, social media strategies and supply chain works.
 
-> Nov, 2016 — Apr, 2017
-
-Brought in to assist with new restaurant launch
-
-- Created and costed menus.  
-- Established relationships with suppliers  
-- Hired & trained staff  
-- Responsible for implementing all health and safety standards  
-- Set up the POS system, costing and inventory systems.
-
-#### Claire’s Chefs
-
+#### Sustainable Brothers 
 > Apr, 2014 — Oct, 2016
+Co-founder and project manager of a student based movement providing platforms for eventually 5000+ followers to connect with sustainability projects and campaigns, resulting in 6 fundraising events, 14 community food gardens, 20 festival and awareness events and 4 youth commitee meetings. 
 
 Specialized in catering for ViP private events and for premium fashion clients.
-
-#### The Savoy Hotel
-
-> Oct, 2011 — Nov, 2013
-
-Worked in private events, ranging from intimate dining to 600+ banquets
-
-- Managed a team of 12 chefs  
-- Responsible for creating daily prep schedules  
-- Coordinating events with pastry, front of house, HR and hotel management.
 
 </p>
 </details>
