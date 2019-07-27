@@ -160,13 +160,15 @@ Co-founder and project manager of a student based movement providing platforms f
 
 <details><summary>Hobbies & Interests</summary>
 <p>
-- Reading: I love reading science fiction, tech, biographies and self-improvement books.
-- Climbing: Bouldering and traditional climbing
-- Trekking: I enjoy venturing into remote areas of the world to trek and explore, especially in high altitutde alpine regions. 
-- Cycling
-- Football: I played semi-professionally from greenpoint FC in South Africa. 
-- Scuba Diving
-- Learning: I frequently attend lectures, conferences and meet ups to stay informed with the latest industry trend
+
+Reading: I love reading science fiction, tech, biographies and self-improvement books.
+Climbing: Bouldering and traditional climbing.
+Trekking: I enjoy venturing into remote areas of the world to trek and explore, especially in high altitutde alpine regions.
+Cycling.
+Football: I played semi-professionally from greenpoint FC in South Africa.
+Scuba Divind.
+Learning: I frequently attend lectures, conferences and meet ups to stay informed with the latest industry trend
+
 </p>
 </details>
 
