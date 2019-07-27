@@ -12,7 +12,7 @@ My dream is to work in the nexus between said sustainability, technology, povert
 
 To better understand the world we live and the solutions we need, I did a masters Sustainable Development at Stellenbosch University. I then moved to London so I will be able focus all my time and energy on becoming a better software developer in one of the tech-capitals of the world. 
 
-I am an independant thinker, clearly fascinated with technology and sustainability megatrends. I am proactive and solutions-oriented. I love working hard on things I care about, and work well within diverse groups and independently while having a natural curiosity for how things work.
+I am an independant thinker, clearly fascinated with technology and sustainability megatrends. I am proactive and solutions-oriented, and love pushing myself to learn fast. I love working hard on things I care about, and work well within diverse groups and independently while having a natural curiosity for how things work.
 
 **Please expand the drop downs below by clicking on them**
 
