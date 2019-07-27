@@ -10,7 +10,7 @@
 
 I am an independant thinker, fascinated with technology and sustainability megatrends. I am proactive and solutions-oriented, looking to harness my passion for programming. I love working hard on things I care about, and work well within diverse groups and independently while having a natural curiosity for how things work.
 
-I recently completed a Masters at Stellenbosch University. The day after I completed my studies, I applied for a UK ancestral visa and decided to focus all my time and energy in becoming a better software developer.
+Directly after I completed my masters in Sustainable Development at Stellenbosch University, I applied for a UK Ancestral Visa to move to London so I can focus all my time and energy on becoming a better software developer.
 
 **Please expand the drop downs below by clicking on them**
 
@@ -29,8 +29,6 @@ I recently completed a Masters at Stellenbosch University. The day after I compl
 
 <details><summary>Projects</summary>
 <p>
-
-
 
 
 | Link | Summary | Technologies used | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
