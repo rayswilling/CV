@@ -10,7 +10,7 @@
 
 My dream is to work in the nexus between said sustainability, technology, poverty and inequality. I strongly believe that business, technology and its facilitated engagement with people can be a powerful lever for catalysing positive social and environmental change. To enable this dream, I aim to empower that which is around me through a career in software development that creates technical solutions for a world riddled with crises.
 
-To better understand the world we live and the solutions we need, I did a masters Sustainable Development at Stellenbosch University. I then moved to London so I will be able focus all my time and energy on becoming a better software developer in one of the tech-capitals of the world. 
+To better understand the world we live and the solutions we need, I did a masters Sustainable Development at Stellenbosch University. I then moved to London to focus all my time and energy on becoming a better software developer in one of the tech-capitals of the world. 
 
 I am an independant thinker, clearly fascinated with technology and sustainability megatrends. I am proactive and solutions-oriented, and love pushing myself to learn fast. I love working hard on things I care about, and work well within diverse groups and independently while having a natural curiosity for how things work.
 
