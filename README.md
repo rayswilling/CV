@@ -32,12 +32,12 @@ I am an independant thinker fascinated in technology and sustainability megatren
 <details><summary>Projects</summary>
 <p>
 
-
-| Link | Summary | Technologies used |
+| Link | Summary | Technologies used | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Status&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :---: | :---: | :---: | :---: |
-| [PowerOfTruth](https://github.com/rayswilling/PowerOfTruth) | Makers final project. As a team, we were tasked with making a social good application. We came up with ThePowerOfTruth, a news app where people can read news from a myriad of sources, and have the political bias of each news source displayed next to each news article from that respective source. |  <br><br> **Software:** React Native, Google API (Google News), Jest, Expo | 
-| [PowerOfTruthServer](https://github.com/rayswilling/PowerOfTruthServer ) | THe backend for the Power of Truth application. It's an API in in itself that draws in information from Google API and dispenses it to the front end Power of Truth App| Node.js |
-| [Acebook-Amoeba Boys](https://github.com/samkitchen94/acebook-rails-amoeba-boyz) | A team project aimed to make a Facebook clone. We wanted to give it a cartoon like feel with Facebook functionality. | Ruby, Rails, CSS, Devise |
+
+| [PowerOfTruth](https://github.com/rayswilling/PowerOfTruth) | Makers final project. As a team, we were tasked with making a social good application. We came up with ThePowerOfTruth, a news app where people can read news from a myriad of sources, and have the political bias of each news source displayed next to each news article from that respective source. |  <br><br> **Software:** React Native, Google API (Google News), Jest, Expo | [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)<br> [![Coverage Status](https://coveralls.io/repos/github/fo0s/10monkeys/badge.svg?branch=master)](https://coveralls.io/github/fo0s/10monkeys?branch=master)<br>[![Madewith](https://img.shields.io/badge/Madewith-React-blue)] <br>![Progress](http://progressed.io/bar/85?title=done)|
+| [PowerOfTruthServer](https://github.com/rayswilling/PowerOfTruthServer ) | THe backend for the Power of Truth application. It's an API in in itself that draws in information from Google API and dispenses it to the front end Power of Truth App| Node.js | [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)<br>![Online](https://img.shields.io/badge/Status-Online-green) |
+| [Acebook-Amoeba Boys](https://github.com/samkitchen94/acebook-rails-amoeba-boyz) | A team project aimed to make a Facebook clone. We wanted to give it a cartoon like feel with Facebook functionality. | Ruby, Rails, CSS, Devise | [![Build Status](https://travis-ci.org/samanthaixer/acebook-roku.svg?branch=master)](https://travis-ci.org/samanthaixer/acebook-roku)<br>[![Coverage Status](https://coveralls.io/repos/github/samanthaixer/acebook-roku/badge.svg?branch=master&kill_cache=1)](https://coveralls.io/github/samanthaixer/acebook-roku?branch=master&kill_cache=1)<br>![Progress](http://progressed.io/bar/60?title=done) |
 </p>
 </details>
 
