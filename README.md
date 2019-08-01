@@ -24,10 +24,9 @@ I am an independant thinker fascinated in technology and sustainability megatren
 | :---: | :---: | :---: |
 | Git command line, Markdown, Repo collaboration, Merge conflicts, Work flows (branching) | Gems, Rails, Sinatra, Rspec, Capybara | Vanilla, React.js, jquery, Node.js |
 
-<br>
-
 </p>
 </details>
+<br>
 
 <details><summary>Projects</summary>
 <p>
@@ -39,9 +38,6 @@ I am an independant thinker fascinated in technology and sustainability megatren
 | [Acebook-Amoeba Boys](https://github.com/samkitchen94/acebook-rails-amoeba-boyz) | A team project aimed to make a Facebook clone. We wanted to give it a cartoon like feel with Facebook functionality. | Ruby, Rails, CSS, Devise |
 | [MakersBnB](https://github.com/rayswilling/MakersAirBnB-) | A team project to create a clone of AirBnB. | Ruby, Sinatra, DataMapper, CSS, Html, JQuery, Vegas |
 </details>
-<br><br>
-<br><br>
-<br><br>
 
 <details><summary>Education</summary>
 <p>
