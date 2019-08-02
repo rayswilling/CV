@@ -39,6 +39,7 @@ I am an independant thinker fascinated in technology and sustainability megatren
 | [MakersBnB](https://github.com/rayswilling/MakersAirBnB-) | A team project to create a clone of AirBnB. | Ruby, Sinatra, DataMapper, CSS, Html, JQuery, Vegas |
 </details>
 
+
 <details><summary>Education</summary>
 <p>
 
