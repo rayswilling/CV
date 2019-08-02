@@ -118,6 +118,7 @@ Continues deployment of the master and development branches using Heroku.
 
 </p>
 </details>
+<br>
 
 <details><summary>Experience</summary>
 <p>
@@ -155,6 +156,7 @@ Co-founder and project manager of a student based movement providing platforms f
 
 </p>
 </details>
+<br>
 
 <details><summary>Hobbies & Interests</summary>
 <p>
@@ -166,6 +168,7 @@ Co-founder and project manager of a student based movement providing platforms f
 - Learning: I frequently attend lectures, conferences and meet ups to stay informed with the latest industry trends.  
 </p>
 </details>
+<br>
 
 
 <details><summary>Work Eligibility</summary>
