@@ -34,7 +34,7 @@ I am an independant thinker fascinated in technology and sustainability megatren
 | Link | Summary | Languages and Frameworks |
 | :---: | :---: | :---: |
 | [PowerOfTruth](https://github.com/rayswilling/PowerOfTruth) | Makers final project. As a team, we were tasked with making a social good application. We came up with ThePowerOfTruth, a news app where people can read news from a myriad of sources, and have the political bias of each news source displayed next to each news article from that respective source. | JavaScript, React Native, Google API (Google News), Jest, Expo |
-| [PowerOfTruthServer](https://github.com/rayswilling/PowerOfTruthServer ) | THe backend for the Power of Truth application. It's an API in in itself that draws in information from Google API and dispenses it to the front end Power of Truth App| JavaScript, Node.js | 
+| [PowerOfTruthServer](https://github.com/rayswilling/PowerOfTruthServer ) | The backend for the Power of Truth application. It's an API in in itself that draws in information from Google API and dispenses it to the front end Power of Truth App| JavaScript, Node.js | 
 | [Acebook-Amoeba Boys](https://github.com/samkitchen94/acebook-rails-amoeba-boyz) | A team project aimed to make a Facebook clone. We wanted to give it a cartoon like feel with Facebook functionality. | Ruby, Rails, CSS, Devise |
 | [MakersBnB](https://github.com/rayswilling/MakersAirBnB-) | A team project to create a clone of AirBnB. | Ruby, Sinatra, DataMapper, CSS, Html, JQuery, Vegas |
 </details>
