@@ -38,7 +38,7 @@ I am an independant thinker fascinated in technology and sustainability megatren
 | [Acebook-Amoeba Boys](https://github.com/samkitchen94/acebook-rails-amoeba-boyz) | A team project aimed to make a Facebook clone. We wanted to give it a cartoon like feel with Facebook functionality. | Ruby, Rails, CSS, Devise |
 | [MakersBnB](https://github.com/rayswilling/MakersAirBnB-) | A team project to create a clone of AirBnB. | Ruby, Sinatra, DataMapper, CSS, Html, JQuery, Vegas |
 </details>
-
+<br>
 
 <details><summary>Education</summary>
 <p>
